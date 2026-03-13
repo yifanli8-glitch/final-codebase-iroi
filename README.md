@@ -1,4 +1,4 @@
-# DOGU Robot Project (Clean Submission)
+# DOGU Robot Project
 
 This project provides a PyQt-based robot UI with realtime voice interaction, lab QA support, and navigation-related command handling.
 
